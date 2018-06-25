@@ -1,2 +1,2 @@
 # snake-py
-classic snake game made using python
+classic snake :snake: game made using python
