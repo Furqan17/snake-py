@@ -59,7 +59,7 @@ def game_intro():
                     
         game_display.fill(black)
         message_to_screen('Snake Game', white, -150,'large')
-        message_to_screen('press "Space" to play or "Q" to quit', white, 100)
+        message_to_screen('press "Space" to play or "Q" to quit', white, 100, size = 'medium')
         pygame.display.update()
         clock.tick(15)
         
