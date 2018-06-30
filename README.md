@@ -1,6 +1,6 @@
 # snake-py
 classic snake :snake: game  
-This program was coded in python and utilises the Pygame library 
+This game was coded in python and utilises the Pygame library 
 
 ## Gameplay
 
