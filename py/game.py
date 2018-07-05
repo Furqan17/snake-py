@@ -201,7 +201,8 @@ def game_loop():
             snake_length += 1
  
             
-
+## Variation of snake eating apple code
+##
 ##        if lead_x >= random_apple_x and lead_x <= random_apple_x + apple_thickness - block_size:
 ##            if lead_y >= random_apple_x and lead_x <= random_apple_x + apple_thickness - block_size:
 ##                random_apple_x = random.randrange(0, display_width - block_size, 10)
