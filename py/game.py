@@ -11,6 +11,8 @@ green = (0, 255, 0)
 blue = (0, 0, 255)
 lighter_blue = (100, 100, 255)
 
+# Window size can change
+# May affect snake/item scaling 
 display_width = 800
 display_height = 600
 
