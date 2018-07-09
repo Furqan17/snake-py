@@ -1,6 +1,7 @@
 # Snake-py
 classic snake :snake: game  
-This game was coded in python and utilises the Pygame library 
+This game was coded in python and utilises the Pygame library   
+Build v1_final
 
 ## Includes:
 
