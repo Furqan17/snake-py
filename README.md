@@ -1,11 +1,6 @@
 # Snake-py
 classic snake :snake: game  
-This game was coded in python and utilises the Pygame library  
-
-## Includes:
-
-* Multi directional movement
-* Game Over Screen
+This game was coded in Python (3.6.3) and utilises the Pygame library  
 
 ## Gameplay
 
