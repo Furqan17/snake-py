@@ -23,9 +23,3 @@ Controls the icon image in the pygame window, I have not uploaded the icon so py
 
 ![Alt Text](https://media.giphy.com/media/4N5wXFdnKkSxRqzMp7/giphy.gif)
 _10/10 -ign_
-
-
-## Screenshots 
-![alt text](https://raw.githubusercontent.com/Furqan17/snake-py/master/src/startscreen.PNG)
-
-![alt text](https://raw.githubusercontent.com/Furqan17/snake-py/master/src/gameover.PNG)
