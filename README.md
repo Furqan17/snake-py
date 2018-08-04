@@ -21,5 +21,4 @@ Controls the icon image in the pygame window, I have not uploaded the icon so py
 
 ## Gameplay
 
-![Alt Text](https://media.giphy.com/media/4N5wXFdnKkSxRqzMp7/giphy.gif)
-_10/10 -ign_
+<p align="center"><img src="https://media.giphy.com/media/4N5wXFdnKkSxRqzMp7/giphy.gif"></p>
