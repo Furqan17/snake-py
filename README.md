@@ -1,6 +1,6 @@
 # snake-py
 Inspired by the [Classic Snake Game](https://en.wikipedia.org/wiki/Snake_(video_game_genre))    
-This game was coded in Python (3.6.3) and utilises the Pygame library  
+This game was coded in Python (3.6.3) and utilises the [Pygame library](https://www.pygame.org/news)  
 
 ## :wrench: Build & Installation 
 1.) Pygame requires [Python](https://www.python.org/), if you don't already have it, you can download it [here](https://www.python.org/downloads/), Use python 3.6.1 or greater, because it is much friendlier to newbies, and additionally *runs faster.*
