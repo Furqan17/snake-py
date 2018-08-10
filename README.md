@@ -11,14 +11,12 @@ This game was coded in Python (3.6.3) and utilises the [Pygame library](https://
 
 4.) Open `game.py` and run
 
-**Note:**
+### Note:
 
-```python
-icon = pygame.image.load('icon.png')
-pygame.display.set_icon(icon)
-```
+![img](https://raw.githubusercontent.com/Furqan17/snake-py/master/images/carboncode-icon.png)
+
 Controls the icon image in the pygame window, I have not uploaded the icon so python will give you an **error**. Before running `game.py` comment out these 2 lines (23,24) or *alternatively* add your own image.
 
-## :video_game: Gameplay
+## :snake: Gameplay
 
 <p align="center"><img src="https://media.giphy.com/media/4N5wXFdnKkSxRqzMp7/giphy.gif"></p>
