@@ -15,7 +15,7 @@ This game was coded in Python (3.6.3) and utilises the [Pygame library](https://
 
 ![img](https://raw.githubusercontent.com/Furqan17/snake-py/master/images/carboncode-icon.png)
 
-This code above (line 22-24) controls the icon image in the pygame window, I have not uploaded the icon source image so pygame **will give you an error**. Before running `game.py` comment out these 2 lines (using #) or *alternatively* add your own image source.
+This code above *(line 22-24)* controls the icon image in the pygame window, I have not uploaded the icon source image so pygame **will give you an error**. Before running `game.py` comment out these 2 lines (using #) or *alternatively* add your own image source.
 
 ## :snake: Gameplay
 
