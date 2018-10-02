@@ -22,5 +22,5 @@ This code above *(line 22-24)* controls the icon image in the pygame window, I h
 <p align="center"><img src="https://media.giphy.com/media/4N5wXFdnKkSxRqzMp7/giphy.gif"></p>
 
 <p align="center"> ...
-  <br>2018 <strong>Furqan17</strong>
+  <br>2018 <a href="https://github.com/Furqan17"><strong>Furqan17</strong></a>
 </p>
