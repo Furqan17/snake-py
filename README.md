@@ -23,7 +23,7 @@ This code above *(line 22-24)* controls the icon image in the pygame window, I h
 
 ## :camera: Screenshots
 
-Star Screen (On Launch)    |  Game Over Screen
+Start Screen (On Launch)    |  Game Over Screen
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/Furqan17/snake-py/master/src/startscreen.PNG)  |  ![](https://raw.githubusercontent.com/Furqan17/snake-py/master/src/gameover.PNG)
 
