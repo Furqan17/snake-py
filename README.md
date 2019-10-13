@@ -17,10 +17,6 @@ This game was coded in Python (3.6.3) and utilises the [Pygame library](https://
 
 This code above *(line 22-24)* controls the icon image in the pygame window, I have not uploaded the icon source image so pygame **will give you an error**. Before running `game.py` comment out these 2 lines (using #) or *alternatively* add your own image source.
 
-## :snake: Gameplay
-
-<p align="center"><img src="https://media.giphy.com/media/4N5wXFdnKkSxRqzMp7/giphy.gif"></p>
-
 ## :camera: Screenshots
 
 Start Screen (On Launch)    |  Game Over Screen
@@ -28,5 +24,5 @@ Start Screen (On Launch)    |  Game Over Screen
 ![](https://raw.githubusercontent.com/Furqan17/snake-py/master/src/startscreen.PNG)  |  ![](https://raw.githubusercontent.com/Furqan17/snake-py/master/src/gameover.PNG)
 
 <p align="center"> ...
-  <br>2018 <a href="https://github.com/Furqan17"><strong>Furqan17</strong></a>
+  <a href="https://github.com/Furqan17"><strong>Furqan17</strong></a>
 </p>
