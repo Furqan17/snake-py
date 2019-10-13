@@ -23,6 +23,6 @@ Start Screen (On Launch)    |  Game Over Screen
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/Furqan17/snake-py/master/src/startscreen.PNG)  |  ![](https://raw.githubusercontent.com/Furqan17/snake-py/master/src/gameover.PNG)
 
-<p align="center"> ...
+<p align="center">
   <a href="https://github.com/Furqan17"><strong>Furqan17</strong></a>
 </p>
